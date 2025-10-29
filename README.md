@@ -1,3 +1,3 @@
 # 🎯 Why This Repository Exists
 
-This repository exists to **document my journey of learning, building, and understanding deep learning systems**.  
+This repository exists to document my hands-on experience on deep learning and neural networks.
